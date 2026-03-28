@@ -1,4 +1,4 @@
-# ✅ Social Media Do's
+# Social Media Do's
 
 1. Enable Privacy Settings: Regularly review your account settings to control who can see your personal posts and information.
 
@@ -10,7 +10,7 @@
 
 5. Network Purposefully: Use social media to follow industry leaders, join academic groups, and connect with alumni in your field of study.
 
-# ❌ Social Media Don'ts
+# Social Media Don'ts
 
 1. Don’t Share Sensitive Info: Never post your home address, phone number, or current real-time location (checking in) for safety reasons.
 
